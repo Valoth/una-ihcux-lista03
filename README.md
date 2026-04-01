@@ -13,18 +13,6 @@ Demonstrar como a visibilidade do status do sistema melhora a experiência do us
 
 O sistema deve sempre manter o usuário informado sobre o que está acontecendo, por meio de feedback claro e em tempo adequado.
 
-## Como Executar
-
-1. Acesse a pasta do projeto:
-```bash
-cd praticaTerminal/ScannerExpert
-```
-
-2. Execute o projeto:
-```bash
-dotnet run
-```
-
 ## Estrutura do Projeto
 - Program.cs: Contém a lógica principal da aplicação e exibição das mensagens de status.
 
